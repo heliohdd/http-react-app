@@ -40,6 +40,14 @@ function App() {
       },
       body: JSON.stringify(product),
     });
+
+    // Etapa 3- Carregamento dos dados de forma dinâmica
+    const addedProduct = await res.json()
+    
+    setProducts((prevProducts) => [...prevProducts, addedProduct])
+
+    setName("")
+    setPrice("")
   };
 
   return (

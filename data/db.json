@@ -24,6 +24,46 @@
       "id": "b258",
       "name": "Capa de chuva",
       "price": "50.50"
+    },
+    {
+      "id": "9a15",
+      "name": "Blusa de pelica",
+      "price": "500"
+    },
+    {
+      "id": "84e4",
+      "name": "Blusa lisa azul",
+      "price": "450"
+    },
+    {
+      "id": "bfa7",
+      "name": "Blusa lisa azul",
+      "price": "450"
+    },
+    {
+      "id": "545a",
+      "name": "Blusa vermelha",
+      "price": "200"
+    },
+    {
+      "id": "80a2",
+      "name": "Blusa vermelha",
+      "price": "200"
+    },
+    {
+      "id": "8eb1",
+      "name": "Blusa vermelha",
+      "price": "200"
+    },
+    {
+      "id": "bcb9",
+      "name": "Blusa vermelha",
+      "price": "200"
+    },
+    {
+      "id": "48bb",
+      "name": "Blusa vermelha",
+      "price": "200"
     }
   ]
 }
